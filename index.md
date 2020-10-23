@@ -1,37 +1,233 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/OfirApps/_/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <meta charset="UTF-8">
+  <meta name="google-site-verification" content="EPwqUfk5s1d2b1853aO4zuq5aPdBX3FPlHYuLZu9hiY" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="אופיר שטורך">
+  <meta http-equiv="refresh" content="600">
+  <meta name="description" content="האפליקציות של אופיר, אפליקציות שעוזרות.">
+  <meta name="keywords" content="אופיר שטורך, אופיר, שטורך, אפליקציות, מגניב, html, amazon_bot, Amazon, Bot, #איןכמואופיר">
+  <title>האפליקציות של אופיר</title>
+  <link href="https://i.ibb.co/jTz0Vfk/ofir-s-projects-inner-logo.png" rel="shortcut icon">
+  <link href="https://i.ibb.co/jTz0Vfk/ofir-s-projects-inner-logo.png" rel="apple-touch-icon">
+  <link href="https://i.ibb.co/jTz0Vfk/ofir-s-projects-inner-logo.png" rel="icon" type="image/x-icon" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/jTz0Vfk/ofir-s-projects-inner-logo.png" />
+</head>
+<body>
+  <html><head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 
-[Link](url) and ![Image](src)
-```
+        <link href="//fonts.googleapis.com/css?family=Exo+2:300,500,600,regular,italic&amp;subset=latin,latin-ext,cyrillic" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/designs/_shared/css/layout-shared.css?v=1.911" type="text/css">
+        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/designs/impress-stripe/css/layout.css?v=1.911" type="text/css">
+        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/designs/impress-stripe/css/editable.css?v=1.911" type="text/css">
+        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/designs/impress-stripe/css/animation.css?v=1.911" type="text/css">
+        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/designs/impress-stripe/css/theme-stripe.css?v=1.911" type="text/css">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+                        <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/backend/css/backend.css?v=1.911" type="text/css">
+                    <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/libs/js/fancybox3/jquery.fancybox.min.css?v=1.911" type="text/css">
+                    <link rel="stylesheet" href="https://dss4hwpyv4qfp.cloudfront.net/libs/js/fancybox3/jquery.fancybox.min.css?v=1.911" type="text/css">
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/designs/_shared/js/designfx.js?v=1.911"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/libs/js/mozlive.js?v=1.911"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/libs/js/fancybox3/jquery.fancybox.min.js?v=1.911"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/libs/js/bannerplay/jquery.bannerplay.js?v=1.911"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/libs/js/responsivevideos/jquery.responsivevideos.js?v=1.911"></script>
+                    <script src="https://dss4hwpyv4qfp.cloudfront.net/backend/js/components/jquery.mozbanner.js?v=1.911"></script>
+                <script>var FRONTEND_CDN = 'https://dss4hwpyv4qfp.cloudfront.net';</script>
+    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OfirApps/_/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+        <style class="customizer">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </style>
+    <style class="customizer-fonts">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </style>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
+
+    
+
+        <script src="https://dss4hwpyv4qfp.cloudfront.net/designs/impress/js/main.js?v=1.911"></script>
+
+    <style id="fixed-menu-colors">@media screen and (min-width:751px) and (min-height:501px) {#top.sticky { background-color: #050505}}</style></head>
+
+    <body class="mz_rtl" lang="he">
+
+        
+    
+        
+
+    
+
+                                    <div id="bigbar">
+                    <div class="mz_component mz_banner">
+    <div class="moze-banner default" style="background-image: url(&quot;https://i.ibb.co/8bTF0Tm/backofsite-min.png;);"></div>
+
+<a class="moze-banner-slide-left" href="javascript:void(0);" rel="nofollow" style="display: none;"></a>
+<a class="moze-banner-slide-right" href="javascript:void(0);" rel="nofollow" style="display: none;"></a>
+
+</div>
+                    <div id="bigbar-overlay-block" class="over-bigbar">
+                        <div id="bigbar-container">
+                            <div id="bigbar-overlay">
+                                <div id="bigbar-colorizer">
+                                    <div class="bigbar-h1"><div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    האפליקציות של אופיר
+            </div>
+
+</div></div>
+                                    <div class="bigbar-h2"><div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    אפליקציות. שעוזרות.
+            </div>
+
+</div></div>
+                                </div>
+                                
+                                <a id="bigbar-down" href="#top">&nbsp;</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+        <div id="top">
+    <div id="header">
+        <div id="languages">
+            
+        </div>
+        <div id="header-main">
+            <div id="title">
+                <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    האפליקציות של אופיר
+            </div>
+
+</div>
+            </div>
+                                    
+                    </div>
+    </div>
+    </div>
+        <div id="belowfold">
+
+            <div id="wrap">
+
+                                
+
+
+            
+            
+    <div class="mz_component mz_grid" data-cid="25626370" data-pid="5981428">
+
+
+            <div class="section section-customizable" data-rowid="5280699">
+            <div class="container">
+                <div class="gridrow">
+                                            <div class="column-12-12" data-cellid="7082055">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <p>האפליקציות שלנו עוד לא הגיעו לחנות גוגל, תוכלו להוריד אותם פה</p>
+            </div>
+
+</div>                        </div>
+                                    </div>
+            </div>
+        </div>
+            <div class="section section-customizable" data-rowid="5280698">
+            <div class="container">
+                <div class="gridrow">
+                                            <div class="column-6-12" data-cellid="7082053">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">זרוק ת'קוביה</span></h2><h2><span style="font-size: 16px; font-weight: 400;">זרקו את הקוביה, אפליקציה ממכרת ומהנה&nbsp;<br><a class="moze-button-large" href="#">הורדה</a><br></span></h2>
+            </div>
+
+</div>                        </div>
+                                            <div class="column-6-12" data-cellid="7082054">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">תירגומון</span></h2><h2><span style="font-size: 16px; font-weight: 400;">אפליקציית התרגום שלנו<br><a class="moze-button-large" href="#">הורדה</a><br></span></h2>
+            </div>
+
+</div>                        </div>
+                                    </div>
+            </div>
+        </div>
+            <div class="section section-customizable" data-rowid="5341316">
+            <div class="container">
+                <div class="gridrow">
+                                            <div class="column-6-12" data-cellid="7166227">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">דבר אלי</span></h2><h2><span style="font-size: 16px; font-weight: normal;">אפליקציית טקסט לדיבור </span><span style="font-size: 16px;">באנגלית&nbsp;<br><a class="moze-button-large" href="#">הורדה</a></span><br></h2>
+            </div>
+
+</div>                        </div>
+                                            <div class="column-6-12" data-cellid="7166228">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">דפדפנו</span></h2><h2><span style="font-size: 16px; font-weight: normal;">הדפדפן שלנו! דפדפן בסיסי עם אפשרות למצב מחשב ועוד.<br><a class="moze-button-large" href="#">הורדה</a>&nbsp;<br></span></h2>
+            </div>
+
+</div>                        </div>
+                                    </div>
+            </div>
+        </div>
+            <div class="section section-customizable" data-rowid="5341342">
+            <div class="container">
+                <div class="gridrow">
+                                            <div class="column-6-12" data-cellid="7166261">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">דיבור לטקסט</span></h2><h2><span style="font-size: 16px; font-weight: 400;">כתוב בעזרת הקול!<br><a class="moze-button-large" href="#">הורדה</a><br></span><br></h2>
+            </div>
+
+</div>                        </div>
+                                            <div class="column-6-12" data-cellid="7166262">
+                            <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">
+                    <h2><span style="font-size: 29.6px;">צעד. צעד.</span></h2><h2><span style="font-size: 16px; font-weight: 400;">לצעוד כדי לקבל נקודות ולצבור כתרים (לא פועל ברקע)<br><a class="moze-button-large" href="#">הורדה</a>&nbsp;<br></span></h2>
+            </div>
+
+</div>                        </div>
+                                    </div>
+            </div>
+        </div>
+    
+    </div>
+
+    
+    
+
+
+
+
+            </div>
+
+            <div id="bottom">
+    <div class="mz_component mz_wysiwyg mz_editable">    <div class="moze-wysiwyg-editor moze-no-select-border">אופיר שטורך</div>
+
+</div>
+    <div id="social">
+        
+    </div>
+    <br class="clear">
+</div>
+        </div>
+
+        
+<!-- This is a secret trap for spam robots, do not go to this link -->
+<a class="mz_notforhumans" href="/meduspods/">&nbsp;.</a>
+
+
+
+
+
+
+    
+
+    
+
+</body></html>
